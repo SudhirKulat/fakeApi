@@ -1,7 +1,7 @@
 { "users":[
       {
       "id":1,
-      "firstname":"shane",
+      "firstName":"shane",
       "lastName":"kate",
       "userName":"sk",
       "age":27,
@@ -10,7 +10,7 @@
  
       {
       "id":2,
-      "firstname":"kate",
+      "firstName":"kate",
       "lastName":"brown",
       "userName":"ks",
       "age":23,
