@@ -1,18 +1,20 @@
-[
-{
-"id":1,
-"firstname":"shane",
-"lastName":"kate",
-"userName":"sk",
-"age":27,
-"salary":"kk"
-},
-{
-"id":2,
-"firstname":"kate",
-"lastName":"brown",
-"userName":"ks",
-"age":23,
-"salary":"kk"
+{ "users":[
+      {
+      "id":1,
+      "firstname":"shane",
+      "lastName":"kate",
+      "userName":"sk",
+      "age":27,
+      "salary":"kk"
+      },
+ 
+      {
+      "id":2,
+      "firstname":"kate",
+      "lastName":"brown",
+      "userName":"ks",
+      "age":23,
+      "salary":"kk"
+      }
+  ]
 }
-]
